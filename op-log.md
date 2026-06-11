@@ -1,14 +1,16 @@
 # op-log.md
 > 操作(operator)记录文档日志(log)
 
+> dict-core迁移已为独立的仓库
+
 ```txt
 下面内容的总结：
 	从翻译来的单词表,层层过滤,做成base,取2字词, 3字词
 	再补充8105和idiom, 加入上版本的做好的1码和2码(大量修改),
-	经过过滤, 调序, 整合成码表
+	经过过滤, 调序, 整合成码表, 修正码表，纯化码表
 ```
 
-# 单字表(share/encoder-data-single/norm8105)
+# 单字表(share/single/norm8105)
 > norm8105的1、2、3级共8105个通用规范字(作为词表的所含字的全集，编码词表的基础)
 > 预期：网络收集的并整理的wb86-u8set为基础能完全覆盖norm8105
 
@@ -25,7 +27,7 @@ error: 出现缺失, 修补wb86-u8set
 ```
 
 
-# 词表基础(share/base/from-words)
+# 词表基础
 > 理由：收集含来自世界上各学科的`翻译者`的词汇，`人名过滤`得到很好的支持，`实用`且`广泛`，etc.
 > 从from-words的中英词译作为基础,这意味着最终的词表必是(此表+norm8105单字集)的子集
 
@@ -60,7 +62,7 @@ error: 出现缺失, 修补wb86-u8set
 > 再做一遍替换uerr.txt中字符为\n再去除
 
 > 不假设非8105字集中的字会作为seperator，直接格式化，再encoder_with-filter过滤
-> `./bin/encoder-with-filter share/encoder-data-single/norm8105 share/base/wordlists > share/base/from-words`
+> `./bin/encoder-with-filter share/single/norm8105 share/base/wordlists > share/base/from-words`
 
 
 # wordlist过滤
@@ -98,20 +100,6 @@ sort -u pin > pin-alpha
 > 得宜于从翻译来的源，2长也不错
 > 得宜于从翻译来的源，像`每一个`,`为什么`这样的实用3长很好,噪声还少
 
-
-# 反查制作
-
-```shell
-./bin/freq-sort share/pinyin/pinyin > py
-取py的前(20w-1000)行
-取出被去除部分的单字补充到py
-
-./bin/make-seq py > pyq
-匹配检查调整`词`过密集情况
-
-./bin/freq-sort pyq > pyqs
-正则化pyqs为rime表格式
-```
 
 # 码表整合
 
