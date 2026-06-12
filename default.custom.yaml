@@ -16,10 +16,10 @@ patch:
       - { when: always, accept: Shift_R, toggle: ascii_mode }
 
   menu:
-    # 空格,分号,单引(对应3选一页)
-    page_size: 4
-    alternative_select_labels: [ "", "", "", "" ]  # 极简
-    #alternative_select_labels: [ "〔首〕", "〔主〕", "〔备〕","〔备〕" ]  # 修改候选前缀
+    # 空格,分号,单引(对应5选一页)
+    page_size: 5
+    alternative_select_labels: [ "", "", "", "", "" ]  # 极简
+    #alternative_select_labels: [ "〔首〕", "〔主〕", "〔副〕","〔次〕","〔备〕" ]  # 修改候选前缀
 
   ascii_composer:
     good_old_caps_lock: true #cap键会切换大小写

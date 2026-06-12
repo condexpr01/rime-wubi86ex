@@ -4,7 +4,7 @@
 schema:
   name: "帕瓦芙.powerful86wubi"
   schema_id: powerful86wubi
-  version: "2026.06.11.1"
+  version: "2026.06.12"
   authoer: "Vito <condexpr01@outlook.com>"
   description: "git@github.com:condexpr01/rime-wubi86ex"
   dependencies: ["powerful86pinyin"]
@@ -81,6 +81,7 @@ key_binder:
 speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   max_code_length: 4
+
   algebra: # z键模糊匹配功能(会显著增加布署所需时间)
     - derive/^.(.*)$/z$1/
     - derive/^(.).(.*)$/$1z$2/

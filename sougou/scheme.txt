@@ -1729,7 +1729,6 @@ aggx	花青素
 agh	廿
 agha	巧虎
 aghg	廿
-aghh	欺下瞒上
 aghi	七步
 aghk	七点
 agho	蔫
@@ -21044,8 +21043,8 @@ eeif	肝脑涂地
 eeii	妥妥当当
 eeio	胭脂水粉
 eeip	朋党
-eeiq	腹股沟
 eeiq	月光
+eeiq	腹股沟
 eeis	乳胶漆
 eeit	月活
 eeje	月明
@@ -52369,7 +52368,6 @@ itft	少者
 itft	省考
 itft	温血动物
 itfu	学生干部
-itfv	洗雪
 itfw	法律地位
 itfy	海塘
 itfy	沃壤
@@ -56436,8 +56434,6 @@ jjjg	明明是
 jjji	明晃晃
 jjjj	日
 jjjj	日日
-jjjj	晶晶
-jjjj	电影明星
 jjjj	明里暗里
 jjjn	日电
 jjjp	日晕
@@ -63673,7 +63669,6 @@ kwce	只能
 kwcf	只对
 kwcn	嗡
 kwcu	中华台北
-kwd	鄂伦春
 kwdb	只顾
 kwdd	哈大
 kwde	只有
@@ -63685,7 +63680,6 @@ kwdh	啥破
 kwdi	哈佛大学
 kwdp	哈达
 kwdr	只愿
-kwdw	鄂伦春
 kwdy	鄂伦春族
 kwdy	中途而废
 kwe	喝倒彩
@@ -86470,7 +86464,6 @@ qhva	外媒
 qhvl	外舅
 qhvp	外嫁
 qhvt	外姓
-qhw	色目人
 qhwa	外借
 qhwc	外公
 qhwf	外传
@@ -86482,7 +86475,6 @@ qhwt	外伤
 qhwt	外侨
 qhwt	犯上作乱
 qhww	外人
-qhww	色目人
 qhwx	外倾
 qhwx	外货
 qhxc	外经
@@ -102651,7 +102643,6 @@ sgif	西洼
 sgii	西沙
 sgii	杯水
 sgim	酥油
-sgip	西学
 sgip	醒觉
 sgip	西沉
 sgip	配演
@@ -142468,9 +142459,7 @@ ydny	诚心
 ydo	诙
 ydow	齑粉
 ydoy	诙
-ydp	唐太宗
 ydpe	庞家
-ydpf	唐太宗
 ydpl	调三窝四
 ydpu	诚实
 ydpu	毫厘之间
