@@ -7918,8 +7918,8 @@ bmtf	出街
 bmtf	出徒
 bmtg	出生
 bmtg	出征
-bmth	出版
 bmth	出自
+bmth	出版
 bmth	出处
 bmth	出息
 bmth	出牌
@@ -11375,6 +11375,7 @@ cmkg	𬳶
 cmkk	通风口
 cmly	鸡同鸭讲
 cmmq	观风
+cmnd	观剧
 cmng	骋怀
 cmoo	驴肉火烧
 cmos	观灯
@@ -12338,6 +12339,8 @@ cx	柔弱
 cx	对比
 cx	预约
 cxcf	又红又专
+cxe	巴比妥
+cxev	巴比妥
 cxk	双引号
 cxkg	双引号
 cxw	巴比伦
@@ -18637,6 +18640,7 @@ dsga	大模型
 dsgg	砵
 dsgg	有机玻璃
 dsgh	有禁不止
+dsgj	盛极一时
 dsgk	奇事
 dsgm	奇瑞
 dsgm	奇丽
@@ -24217,8 +24221,8 @@ fciy	云游
 fcj	索马里
 fcjf	索马里
 fcjf	未予显示
-fcjg	动量
 fcjg	却是
+fcjg	动量
 fcjg	运量
 fcjg	云量
 fcjj	去日
@@ -29455,8 +29459,8 @@ fqhk	远点
 fqhn	无眠
 fqhq	朝鲜战争
 fqhx	无此
-fqid	无源
 fqid	无涯
+fqid	无源
 fqid	无名小辈
 fqif	无法
 fqif	无尘
@@ -29611,9 +29615,10 @@ fqqj	无锡
 fqqk	无名
 fqqm	无铅
 fqqq	无多
-fqqt	露馅儿
+fqqt	元夕
 fqqt	坎儿
 fqqt	无猜
+fqqt	露馅儿
 fqqt	声名狼籍
 fqqu	均匀
 fqr	无名指
@@ -33446,8 +33451,8 @@ gdjd	琲
 gdje	天明
 gdjf	天时
 gdjf	天旱
-gdjg	现在是
 gdjg	天晴
+gdjg	现在是
 gdjh	一大早
 gdjj	天蝎
 gdjj	天日
@@ -40446,11 +40451,11 @@ grgu	一年一次
 grgw	残缺不全
 grgw	形势逼人
 grgy	不卑不亢
+grgy	一兵一卒
+grgy	一年一度
 grgy	碧玉
 grgy	珠玉
-grgy	一年一度
 grgy	再看一遍
-grgy	一兵一卒
 gri	珠
 gria	珠江
 gria	不拘小节
@@ -52754,9 +52759,9 @@ ittv	洁身自好
 ittx	浩繁
 itty	洗稿
 itu	流行病
-itud	海关
-itud	洗头
 itud	活着
+itud	洗头
+itud	海关
 itud	泛着
 itud	省着
 itud	混乱状态
@@ -54087,8 +54092,8 @@ iyfm	游击
 iyfm	滦南
 iyfn	温度场
 iyfn	江郎才尽
-iyfp	渡过
 iyfp	流过
+iyfp	渡过
 iyfp	游过
 iyft	逃亡者
 iyfy	波谲云诡
@@ -56014,9 +56019,9 @@ jgyl	题库
 jgyl	题为
 jgym	旺市
 jgym	是高
-jgyn	题词
 jgyn	量词
 jgyn	题记
+jgyn	题词
 jgyn	题刻
 jgyo	量变
 jgyo	遇到麻烦
@@ -58612,7 +58617,7 @@ jxxn	蚍
 jxxo	㬎
 jxxs	最终幻想
 jy	景
-jy	电话
+jy	时刻
 jy	申请
 jyaa	旷工
 jyah	蛀牙
@@ -60611,8 +60616,8 @@ khlp	嘴边
 khlq	嘴软
 khlq	中软
 khlr	路堑
-khlt	中略
 khlt	跑图
+khlt	中略
 khlu	跑圈
 khlu	贵圈
 khlv	路轨
@@ -62935,8 +62940,8 @@ kryw	听诊
 kryw	听谁
 kryw	听讼
 ks	呆
-ks	吐槽
 ks	只要
+ks	吐槽
 ksa	中西医
 ksaj	呆萌
 ksaq	哪根葱
@@ -65427,6 +65432,7 @@ lgff	四五运动
 lgfg	四五十
 lgfl	回天无力
 lgfm	四五十岁
+lgfn	车声
 lgfn	车场
 lgfp	车壳
 lgfs	回天无术
@@ -65558,8 +65564,8 @@ lgnd	国剧
 lgnf	辅导
 lgnf	畏怯
 lgng	国情
-lgnh	车
 lgnh	畏惧
+lgnh	车
 lgnk	畏避
 lgnn	国书
 lgnn	畸形发展
@@ -77656,6 +77662,7 @@ ogb	炖
 ogbb	精子
 ogbg	精卫
 ogbh	邺
+ogbm	凿出
 ogbn	炖
 ogbn	糟了
 ogbn	烦死了
@@ -86481,6 +86488,7 @@ qhxc	外经
 qhxg	外线
 qhxh	外引
 qhxj	触目皆是
+qhxn	外纪
 qhxt	外乡
 qhxx	外缘
 qhxy	外弦
@@ -88120,8 +88128,8 @@ qqdq	争金夺银
 qqdt	争名夺利
 qqdu	狼狈万状
 qqdx	金龙
-qqdy	金矿
 qqdy	多态
+qqdy	金矿
 qqdy	危急存亡
 qqed	多肽
 qqee	多月
@@ -89118,6 +89126,7 @@ qtbb	独生子
 qtbb	獐子
 qtbb	猛子
 qtbc	猎取
+qtbg	猫耳
 qtbg	独卫
 qtbh	卯
 qtbi	狲
@@ -103167,9 +103176,9 @@ sgyt	醉话
 sgyv	西康
 sgyw	酸腐
 sgyw	本座
+sgyy	配方
 sgyy	西方
 sgyy	本文
-sgyy	配方
 sgyy	本方
 sgyy	本该
 sgyy	西文
@@ -114009,11 +114018,11 @@ trnn	我已
 trnn	科技发展
 trnr	我怕
 trnr	科技情报
-trnt	我
 trnt	特性
-trnt	选择性
-trnt	我发
+trnt	我
 trnt	我改
+trnt	我发
+trnt	选择性
 trnu	我买
 trnu	我飞
 trnu	税后收益
@@ -115255,6 +115264,7 @@ tu	剩
 tu	知道
 tu	简单
 tua	很辛苦
+tuaa	简式
 tuaa	生产工艺
 tuab	冬节
 tuad	冬藏
@@ -117132,6 +117142,7 @@ uadg	善莫大焉
 uadh	并在
 uadh	并存
 uadj	并非
+uadn	冻成
 uadn	并成
 uadr	凘
 uadv	亲切友好
@@ -119807,8 +119818,8 @@ uifi	善游者溺
 uifn	冰块
 uifn	冰场
 uifp	冰坨
-uifp	美满幸福
 uifp	冰壶
+uifp	美满幸福
 uifq	冰雹
 uifq	意兴索然
 uifs	冰霜
@@ -119868,6 +119879,7 @@ uikn	交流中心
 uikt	冰川
 uil	交流团
 uilf	交流团
+uilh	冰罩
 uils	交流思想
 uimd	冰岩
 uimf	冰雕
@@ -119878,8 +119890,8 @@ uini	冰屑
 uiny	冰心
 uio	闪光灯
 uioo	冰火
-uios	闪光灯
 uios	冰灯
+uios	闪光灯
 uiou	冰糕
 uioy	冰糖
 uipf	冰寒
@@ -124575,9 +124587,9 @@ uyud	门头
 uyud	门关
 uyue	门前
 uyuf	门斗
+uyug	凛冽
 uyug	辛辣
 uyug	门闩
-uyug	凛冽
 uyug	闹病
 uyuh	辩
 uyuj	门童
@@ -127852,8 +127864,8 @@ vvvl	好好努力
 vvvn	女婿
 vvvr	女婢
 vvvt	女妖
-vvvv	女
 vvvv	妇女
+vvvv	女
 vvvv	嫂嫂
 vvvv	娜娜
 vvvv	女女
@@ -131035,10 +131047,10 @@ wgwd	倒伏
 wgwd	全优
 wgwd	伍佰
 wgwe	合理使用
-wgwf	会不会
-wgwf	全会
-wgwf	例会
 wgwf	便会
+wgwf	例会
+wgwf	全会
+wgwf	会不会
 wgwf	货到付款
 wgwf	人球分过
 wgwf	全传
@@ -136890,6 +136902,7 @@ wyde	领有
 wyde	含硼
 wydf	偏压
 wydf	人为破坏
+wydg	今古
 wydg	仿古
 wydh	储存
 wydh	住在
@@ -137418,7 +137431,6 @@ wysn	信札
 wyso	售楼
 wysr	停板
 wyss	贪婪
-wyst	会计核算
 wyst	位高权重
 wysu	集
 wysu	住校
@@ -141172,8 +141184,8 @@ xxa	畿
 xxa	维纳斯
 xxaa	幽匿
 xxaa	比比划划
-xxab	比萨
 xxab	毕节
+xxab	比萨
 xxad	维纳斯
 xxah	幽雅
 xxai	丝薄
@@ -145702,8 +145714,8 @@ ynna	氓
 ynnd	扇
 ynnd	忘忧
 ynnf	齐刷刷地
-ynng	房屋
 ynng	永恒
+ynng	房屋
 ynng	忘怀
 ynng	忘情
 ynng	良心发现
@@ -148136,6 +148148,7 @@ yudn	说成
 yudp	谙达
 yudr	高端大气
 yudu	麻痹大意
+yudy	谪戍
 yudy	高姿态
 yue	谫
 yueb	说服

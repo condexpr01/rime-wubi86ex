@@ -3,8 +3,12 @@
 -- 时间
 time = function (input, seg)
 	if (input == "time") then
-		-- 文件名友好的时间表示
-		yield(Candidate("time", seg.start, seg._end , os.date("%Y-%m-%d_%H-%M-%S"), "time"))
+		-- 世界范围内能懂的utc时间
+		offset = tostring(os.date("%z"))
+		utc = offset:sub(1,1)
+		utc = utc == '+' and 'P' or utc == '-' and 'N' or ''
+		utc = "UTC" .. utc .. offset:sub(2,5)
+		yield(Candidate("time", seg.start, seg._end ,utc .. os.date(".%Y-%m-%dT%H:%M:%S"), "time"))
 	end
 end
 
