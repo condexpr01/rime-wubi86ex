@@ -9179,6 +9179,7 @@ bwbn	随便了
 bwbp	附院
 bwbu	险隘
 bwbw	队队
+bwcn	附马
 bwcn	坠马
 bwcu	附骥
 bwcw	险难
@@ -12141,7 +12142,6 @@ cwbx	通信联络
 cwc	巴拿马
 cwce	难能
 cwcf	巴拿马城
-cwcn	附马
 cwcn	巴拿马
 cwcn	驸马
 cwcn	能伸能屈
@@ -13553,7 +13553,6 @@ ddsy	大有可为
 ddta	飙升
 ddta	故态复萌
 ddtc	大么
-ddtd	大笑
 ddtd	大敌
 ddtd	万古长存
 ddtd	大乱
@@ -13584,7 +13583,6 @@ ddtr	大鹅
 ddtt	大笑
 ddtt	大笔
 ddtt	春夏秋冬
-ddtt	大竹
 ddtt	万古千秋
 ddtu	大乘
 ddtx	大篆
@@ -13666,7 +13664,6 @@ ddwa	大袋
 ddwb	大仓
 ddwc	大公
 ddwd	大段
-ddwd	三段
 ddwd	大有人在
 ddwe	餍
 ddwf	大佬
@@ -15316,6 +15313,7 @@ dgwb	三创
 dgwc	原班人马
 dgwc	三公
 dgwd	硬仗
+dgwd	三段
 dgwd	三伏
 dgwf	犬舍
 dgwf	而不会
@@ -18473,12 +18471,12 @@ drqq	厄瓜多尔
 drqt	在押犯
 drqy	秦皇岛
 drr	大拇指
+drrc	愿挨
 drrd	碑拓
 drrf	大势所趋
 drrf	有气质
 drrr	大打折扣
 drrs	愿打
-drrs	愿挨
 drrx	大拇指
 drrx	原批
 drry	大失所望
@@ -23172,7 +23170,6 @@ evbm	舀出
 evbn	妥了
 eve	腿
 evea	腱膜
-eveb	雪乳
 eved	腿胯
 evef	腿脚
 evef	腿肚
@@ -23337,6 +23334,7 @@ exea	脂膜
 exeq	脑细胞
 exey	脂肪
 exgy	月经不调
+exii	脂水
 exim	脂油
 exj	脂
 exjc	脱缰野马
@@ -31413,6 +31411,7 @@ fvdx	雪龙
 fvdy	进退有度
 fvdy	进退存亡
 fve	垠
+fveb	雪乳
 fvee	雪豹
 fvee	雪月
 fvef	雪肤
@@ -35244,7 +35243,6 @@ ggpt	下下之策
 ggpu	环衬
 ggpv	琴瑟之好
 ggpw	玻璃窗
-ggpw	美穴
 ggpw	一窝
 ggpw	刑事案件
 ggpw	一空
@@ -43443,6 +43441,7 @@ hfgd	战无不克
 hfge	战无不胜
 hfgi	目无王法
 hfh	瞋
+hfhh	瞋目
 hfhh	卡夫卡
 hfhh	眯起眼睛
 hfht	瞌睡
@@ -44329,6 +44328,7 @@ hkbn	点了
 hkbn	觇孔
 hkbw	战队
 hkca	点戏
+hkcc	战双
 hkcn	战马
 hkcw	点验
 hkcy	占驻
@@ -46729,7 +46729,6 @@ ieim	浮滑
 ieim	沦肌浃髓
 ieip	浮沉
 ieiq	逍遥法外
-ieir	逍遥
 ieis	浮漂
 ieis	溪河
 ieis	浮渣
@@ -50233,7 +50232,6 @@ inin	潺潺
 inin	涮涮
 inio	活性染料
 inip	泥泞
-inip	谬赏
 iniq	漏光
 inis	泥潭
 inis	泼洒
@@ -55338,10 +55336,10 @@ jern	暖气
 jerq	明的
 jerr	明白
 jerr	盟誓
+jerr	明哲
 jert	暖手
 jerv	暖热
 jerw	明抢
-jerw	明哲
 jese	暖棚
 jesj	日月可鉴
 jesk	明哥
@@ -58580,7 +58578,6 @@ jxhr	最终目的
 jxhs	最终目标
 jxi	归纳法
 jxif	归纳法
-jxii	脂水
 jxis	昆汀
 jxiy	星级酒店
 jxiy	明线光谱
@@ -58892,7 +58889,6 @@ kakd	嘶喊
 kakf	呕吐
 kakf	唠嗑
 kakg	嘶哑
-kakg	呕
 kakh	咂嘴
 kakh	哐呲
 kaki	哎嗨
@@ -59250,7 +59246,6 @@ kdkd	顺顺
 kdkd	嘎哒
 kdkf	咕嘟
 kdkf	嘎吱
-kdkh	撅嘴
 kdkh	顺路
 kdkh	顺嘴
 kdkh	噘嘴
@@ -59551,7 +59546,6 @@ kfgx	味素
 kfh	叶
 kfh	嗔
 kfhh	喷上
-kfhh	瞋目
 kfht	嗜睡
 kfhw	嗔
 kfi	味
@@ -60147,7 +60141,6 @@ khbu	中联
 khbw	中队
 khby	蹲防
 khc	踊
-khcc	战双
 khcc	中又
 khcc	跑垒
 khcd	跨骑
@@ -62459,12 +62452,12 @@ koka	吃糠咽菜
 kokb	噗嗤
 kokd	咪咕
 kokf	噗哧
+kokh	噗呲
 kokk	喷粉器
 kokl	喽啰
 koko	咪咪
 koko	噗噗
 kokw	咪唑
-kokx	噗呲
 kolq	喽罗
 komo	吹糠见米
 koo	啖
@@ -80407,14 +80400,14 @@ pftd	守敌
 pfte	赛艇
 pfte	赛船
 pftf	寒毛
-pftg	守身
 pftj	塞得
 pftk	赛程
 pftk	塞积
 pftl	完备
 pftl	守备
-pftm	宗教自由
+pftm	守身
 pftm	寒微
+pftm	宗教自由
 pfto	寒秋
 pftr	赛特
 pftt	安土重迁
@@ -91240,6 +91233,7 @@ rark	搭扣
 rarm	找抽
 rarn	撒气
 rarp	拭擦
+rarp	抠挖
 rarq	找的
 rarq	撒的
 rarq	拱抱
@@ -96571,7 +96565,6 @@ rpqw	按铃
 rpqy	挖勺
 rpr	摈
 rpra	擦拭
-rpra	抠挖
 rpra	探摸
 rprb	看家护院
 rprc	撺掇
@@ -112250,6 +112243,7 @@ tlqh	血钻
 tlqi	囱
 tlqi	囟
 tlqj	血象
+tlqm	血钠
 tlqn	备饭
 tlqu	箩
 tlqu	靠边儿站
@@ -112601,7 +112595,6 @@ tmqh	向外
 tmqh	身外
 tmqj	自由贸易
 tmqm	身负
-tmqm	血钠
 tmqn	我见犹怜
 tmqs	射杀
 tmqt	射猎
@@ -117631,14 +117624,14 @@ ucvv	冯妇
 ucvw	普通群众
 ucw	瘫
 ucw	普通人
-ucwf	瘫坐
 ucwg	瘫倒
 ucwk	交通信号
 ucwk	普通人员
 ucwt	竣
 ucwt	交通便利
-ucww	普通人
+ucww	瘫坐
 ucww	瘆人
+ucww	普通人
 ucwy	瘫
 ucxa	闯练
 ucxc	痛经
@@ -119417,10 +119410,11 @@ ugpu	盖被
 ugpv	病案
 ugpv	靖安
 ugpw	美容
-ugpw	并不完全
+ugpw	美穴
 ugpw	病容
 ugpw	盖帘
 ugpw	将死之人
+ugpw	并不完全
 ugpy	美神
 ugq	冽
 ugq	差不多
@@ -138670,6 +138664,7 @@ xgdo	统一大业
 xgdw	比下有余
 xgdy	弥天大谎
 xge	缚
+xge	张开腿
 xgeb	母乳
 xgec	母胎
 xgef	缚
@@ -138677,6 +138672,7 @@ xgeg	𬘬
 xgep	母爱
 xgep	纯爱
 xget	母腹
+xgev	张开腿
 xgey	弱不胜衣
 xgf	纡
 xgfa	统一规划
@@ -138855,8 +138851,6 @@ xguj	母音
 xguq	纯净
 xguq	绩效
 xgus	母亲
-xgv	张开腿
-xgve	张开腿
 xgve	母奶
 xgvk	纯如
 xgvl	母舅
@@ -139439,6 +139433,7 @@ xldy	𬘡
 xldy	细碎
 xldy	比较而言
 xlea	细腻
+xleb	幼乳
 xlef	细脚
 xleq	细胞
 xles	细腰
@@ -139696,7 +139691,6 @@ xndh	红心大战
 xndm	纸尿布
 xndn	幻成
 xndx	幻龙
-xneb	幼乳
 xnei	绞尽脑汁
 xnes	弓腰
 xnes	幻彩
@@ -144455,6 +144449,7 @@ yjuj	课间
 yjuj	说明问题
 yjuk	刘总
 yjun	广电总局
+yjuq	齐次
 yjuw	文明单位
 yjuw	计量单位
 yjv	就是好
@@ -145614,6 +145609,7 @@ ynii	房水
 ynij	昶
 ynim	废油
 ynin	豪情满怀
+ynip	谬赏
 ynip	永沉
 ynip	废学
 yniq	忘光
@@ -146927,7 +146923,6 @@ yquk	询问
 yquk	底部
 yqum	底端
 yqum	底商
-yquq	齐次
 yqux	义弟
 yquy	诡辩
 yquy	课外阅读
@@ -147159,7 +147154,6 @@ ysdw	主要成分
 ysdx	魔龙
 ysdy	磨碎
 yse	扁桃腺
-yseb	腐乳
 ysef	床脚
 yser	扁桃腺
 ysev	床腿
