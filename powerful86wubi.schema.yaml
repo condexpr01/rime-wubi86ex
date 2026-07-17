@@ -4,7 +4,7 @@
 schema:
   name: "帕瓦芙.powerful86wubi"
   schema_id: powerful86wubi
-  version: "2026.06.12"
+  version: "2026.07.17"
   authoer: "Vito <condexpr01@outlook.com>"
   description: "git@github.com:condexpr01/rime-wubi86ex"
   dependencies: ["powerful86pinyin"]
@@ -35,12 +35,22 @@ engine:
     - punct_translator          # 用于按punctuator表翻译
     - reverse_lookup_translator # 用于给patterns: reverse_lookup匹配的段反查
 
+  filters:
+    - simplifier@traditionalize
+
+traditionalize:
+  option_name: traditionalize
+  opencc_config: s2t.json
+  tip: none
+
 switches:
+  - name: traditionalize
+    states: [ 简, 繁 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
   - name: ascii_mode
     reset: 0
     states: [ 中, En ]
-  - name: full_shape
-    states: [ 半角, 全角 ]
 
 # 中英切换，键行为控制
 ascii_composer:

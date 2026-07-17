@@ -1928,8 +1928,8 @@ ahfb	卧地
 ahfg	雅士
 ahfh	雅趣
 ahfr	牙垢
-ahft	基督教
 ahft	邪教
+ahft	基督教
 ahft	基督教徒
 ahfy	某些地方
 ahga	获此殊荣
@@ -34965,8 +34965,8 @@ gghh	一卡
 gghh	斑斑点点
 gghh	还不止
 gghh	环目
-gghi	下一步
 gghi	一步
+gghi	下一步
 gghi	还不睡觉
 gghj	一桌
 gghk	一点
@@ -41663,8 +41663,8 @@ gutm	下半身
 gutm	平身
 gutm	平射
 gutn	整装待发
-gutq	平衡
 gutq	平移
+gutq	平衡
 gutq	平稳
 gutq	残羹剩饭
 gutr	副产物
@@ -102466,6 +102466,7 @@ sgbn	想歪了
 sgbp	本院
 sgbq	相互了解
 sgbt	相互联系
+sgbw	配队
 sgbw	本队
 sgbx	西天取经
 sgc	酸

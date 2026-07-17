@@ -5,7 +5,7 @@
 # 关闭: 在powerful86wubi.dict.yaml里注释掉这个词典
 
 name: powerful86wubi8105ext
-version: "2026.06.12"
+version: "2026.07.17"
 sort: original
 
 columns: [code, text]
