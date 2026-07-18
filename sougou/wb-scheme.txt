@@ -132677,8 +132677,8 @@ wnre	低眉折腰
 wnrg	追捕
 wnrg	追兵
 wnrj	人心所归
-wnrq	似的
 wnrq	假的
+wnrq	似的
 wnrq	你懂的
 wnrs	追打
 wnrt	假手
@@ -134610,8 +134610,8 @@ wttf	傻等
 wttg	信息管理
 wttg	信息处理
 wttg	余生
-wtth	伤处
 wtth	作息
+wtth	伤处
 wtti	信息科学
 wttj	人造行星
 wttj	作复
