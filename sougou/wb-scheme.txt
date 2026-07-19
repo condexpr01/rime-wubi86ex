@@ -616,6 +616,7 @@ adfj	藏进
 adfm	茂南
 adfp	敬而远之
 adfq	若无
+adfq	基元
 adfq	甚远
 adfq	苦无
 adft	期考
@@ -891,6 +892,7 @@ adsp	东奔西窜
 adsq	英雄本色
 adsr	基板
 adss	苦楚
+adss	菲林
 adss	茂林
 adsu	勘校
 adsv	其根
@@ -5812,10 +5814,10 @@ awuq	革命斗争
 awuq	募集资金
 awuq	茶资
 awur	花瓣
+awut	花痴
 awut	巷道
 awut	共产
 awut	茶道
-awut	花痴
 awut	工作关系
 awuw	工作单位
 awuw	其余部分
@@ -10235,8 +10237,8 @@ ccxt	双缝
 ccxw	又给
 ccxx	柔柔弱弱
 ccxx	又比
-ccy	双
 ccy	驭
+ccy	双
 ccy	骚
 ccyg	双语
 ccyg	双证
@@ -11370,8 +11372,8 @@ cmj	岊
 cmjj	观日
 cmjt	观览
 cmjv	观照
-cmjy	观景
 cmjy	观影
+cmjy	观景
 cmk	𬳶
 cmk	通风口
 cmkg	𬳶
@@ -17626,8 +17628,8 @@ dnsf	成材
 dnsg	成本
 dnsg	成丁
 dnsk	有必要吗
-dnsm	大发横财
 dnsm	万机
+dnsm	大发横财
 dnso	磁性材料
 dnsr	万株
 dnsy	成核
@@ -26102,8 +26104,8 @@ fgwa	老一代
 fgwb	干他
 fgwb	二创
 fgwb	二五仔
-fgwd	二段
 fgwd	干仗
+fgwd	二段
 fgwd	过一段
 fgwd	二五八万
 fgwe	无副作用
@@ -26142,8 +26144,8 @@ fgwu	十位
 fgwu	十倍
 fgwu	二位
 fgwu	二倍
-fgwv	十分
 fgwv	二分
+fgwv	十分
 fgwv	十盆
 fgww	坏人
 fgww	二人
@@ -26821,8 +26823,8 @@ fhtm	趱
 fhtm	真身
 fhtm	直射
 fhto	直翻
-fhtp	直管
 fhtp	超管
+fhtp	直管
 fhtq	超稳
 fhtq	真稳
 fhtq	走稳
@@ -27923,6 +27925,7 @@ fkqb	喜迎
 fkqb	吉凶
 fkqb	去吃饭了
 fkqc	喜色
+fkqd	嘉然
 fkqe	鼓角
 fkqg	喜钱
 fkqi	鼓乐
@@ -28007,6 +28010,7 @@ fkyi	未响应
 fkym	颉颃
 fkyn	喜讯
 fkyn	露肩
+fkyp	嘉豪
 fkyq	露底
 fkyt	嘉许
 fkyt	彭州
@@ -31333,7 +31337,6 @@ fuvf	霎
 fuvf	增建
 fuvf	霎那
 fuvt	违章建筑
-fuvv	南拳妈妈
 fuvw	干部群众
 fuw	零部件
 fuw	专门化
@@ -31390,6 +31393,7 @@ fuys	未曾设想
 fuyt	培养方向
 fuyt	二次方程
 fuyv	培良
+fuyy	增广
 fuyy	二次方
 fv	雪
 fv	喜好
@@ -33208,6 +33212,7 @@ gcye	致哀
 gcyi	到京
 gcyj	到齐
 gcym	至高
+gcyn	致盲
 gcyn	致词
 gcyn	到户
 gcyn	不能忘怀
@@ -44542,8 +44547,8 @@ hkwx	点化
 hkwy	占领
 hkwy	占住
 hkxc	点缀
-hkxg	战线
 hkxg	战绩
+hkxg	战线
 hkxg	占线
 hkxx	占比
 hkyg	点评
@@ -46472,6 +46477,7 @@ idly	没有因为
 idm	湎
 idmd	湎
 idmd	深有同感
+idmg	法厄同
 idmh	源由
 idmt	尖峰
 idn	𬇕
@@ -47933,10 +47939,10 @@ ihin	小汤
 ihip	小学
 ihip	小党
 ihip	滹沱
-ihiq	小泡
 ihiq	沾光
 ihiq	波光
 ihiq	泪光
+ihiq	小泡
 ihiq	小光
 ihiq	泪沟
 ihis	小河
@@ -48344,6 +48350,7 @@ ihxq	濒绝
 ihxs	沟壑纵横
 ihxt	小张
 ihxt	小缝
+ihxx	波比
 ihxy	波纹
 ihxy	小编
 ihya	小试
@@ -51418,8 +51425,8 @@ iqpd	光宠
 iqpe	渔家
 iqpf	法外之地
 iqpg	淘宝
-iqpg	光宇
 iqpg	池鱼之殃
+iqpg	光宇
 iqpl	辉
 iqpr	浩然之气
 iqpt	酒色之徒
@@ -52456,6 +52463,7 @@ itin	洗濯
 itip	海滨
 itip	海淀
 itip	海棠
+itiq	泛光
 itiq	海沟
 itiq	海淘
 itiq	海光
@@ -52814,9 +52822,9 @@ itvf	海寻
 itvi	活剥
 itvp	海巡
 itvq	学生姓名
-itvt	觉得好笑
-itvt	少君
 itvt	海妖
+itvt	少君
+itvt	觉得好笑
 itvv	少女
 itvv	少妇
 itvw	深入群众
@@ -55419,8 +55427,8 @@ jfaj	野葛
 jfak	时或
 jfan	时蔬
 jfap	野营
-jfaq	时区
 jfaq	野区
+jfaq	时区
 jfaq	野菊
 jfaq	旱区
 jfau	时薪
@@ -56685,6 +56693,7 @@ jlgg	螺环
 jlgw	暴力事件
 jlgx	蛊毒
 jlgy	蝈
+jlih	曼波
 jliq	曙光
 jliy	临界温度
 jljh	蛔虫
@@ -58899,8 +58908,8 @@ kakk	呲牙咧嘴
 kakm	中共中央
 kakn	嘶叫
 kako	喵咪
-kakq	嘶鸣
 kakq	喵呜
+kakq	嘶鸣
 kaks	跑东跑西
 kakv	唠叨
 kakx	哎哟
@@ -60636,8 +60645,8 @@ khmf	中财
 khmg	跚
 khmg	贵贱
 khmg	嘴贱
-khmh	跌幅
 khmh	路由
+khmh	跌幅
 khmh	跟帖
 khmh	跳帧
 khmh	足贴
@@ -65265,6 +65274,7 @@ lfws	黑体
 lfws	转体
 lfwt	黑八
 lfwt	转任
+lfwu	置位
 lfwu	转位
 lfww	黑人
 lfww	围坐
@@ -66278,9 +66288,9 @@ lkip	加浓
 lkir	加派
 lkit	四川省
 lkit	圆活
-lkiu	圆润
 lkiu	回溯
 lkiu	回滚
+lkiu	圆润
 lkiu	圆滚
 lkiv	架梁
 lkix	回涨
@@ -66695,6 +66705,7 @@ lltt	团团簇簇
 lltu	男科
 lltu	轻罪重判
 lltw	轻车简从
+llud	男拳
 llud	田头
 lluf	男装
 lluj	田间
@@ -75780,6 +75791,7 @@ ntud	发卷
 ntud	发着
 ntud	改卷
 ntuf	改装
+ntuf	发癫
 ntug	发病
 ntug	性病
 ntuj	发音
@@ -77980,6 +77992,7 @@ ojih	烛泪
 ojiq	烛光
 ojjv	烛照
 ojjv	爆照
+ojkq	爆鸣
 ojl	煴
 ojlg	煴
 ojnt	爆发
@@ -84416,8 +84429,8 @@ pyty	蜜语甜言
 pyu	祥
 pyu	客户端
 pyud	祥
-pyud	礼券
 pyud	视差
+pyud	礼券
 pyuf	禅
 pyug	祛痘
 pyug	空调病
@@ -87610,9 +87623,8 @@ qnfd	负心违愿
 qnff	刨土
 qnfg	饼干
 qnfg	钮
+qnfg	馋坏
 qnfg	包干
-qnfg	金属元素
-qnfg	杀戮地带
 qnfh	包起
 qnfj	包埋
 qnfl	馌
@@ -90655,8 +90667,9 @@ qyat	希望工程
 qyau	名义工资
 qyb	镦
 qyb	负离子
-qybb	卵子
+qybb	镐子
 qybb	勺子
+qybb	卵子
 qybb	负离子
 qybc	留取
 qybg	𬭚
@@ -90991,8 +91004,8 @@ raa	拭
 raaa	拈花惹草
 raaa	皂苷
 raaa	找工
-raad	皂基
 raad	找茬
+raad	皂基
 raaf	手工劳动
 raaf	后勤基地
 raag	拭
@@ -92327,9 +92340,9 @@ rdrd	扰扰
 rdrg	皇太后
 rdrg	近百年来
 rdrg	排后
+rdrh	拓扑
 rdrh	拜年
 rdrh	拔掉
-rdrh	拓扑
 rdrh	朱唇皓齿
 rdri	排挡
 rdrk	排扣
@@ -93692,6 +93705,7 @@ rgx	白垩纪
 rgxc	后缀
 rgxc	后经
 rgxf	后续
+rgxg	兵线
 rgxg	岳母
 rgxg	后母
 rgxk	兵强
@@ -94990,8 +95004,9 @@ rkra	捉摸
 rkrf	操持
 rkrf	拦路抢劫
 rkrh	扣掉
-rkrk	打听打听
+rkrk	扣扣
 rkrk	指哪打哪
+rkrk	打听打听
 rkrl	扣押
 rkrn	探口气
 rkrp	操控
@@ -95348,8 +95363,8 @@ rmfi	掀风鼓浪
 rmfj	投进
 rmfj	投井
 rmfj	揣进
-rmfp	招财进宝
 rmfp	抽过
+rmfp	招财进宝
 rmfp	投壶
 rmft	投考
 rmft	缺考
@@ -95989,6 +96004,7 @@ rnrc	抉择
 rnre	摧眉折腰
 rnre	抓心挠肝
 rnrf	气质
+rnrf	握持
 rnrf	所持
 rnrg	担心的事
 rnrh	所
@@ -96615,6 +96631,7 @@ rpsf	探杆
 rpsg	看家本事
 rpsh	拧
 rpsj	探查
+rpsm	挖机
 rpsm	打字机
 rpsr	探析
 rpsr	手写板
@@ -101145,12 +101162,12 @@ ryww	撤人
 ryww	邀人
 ryww	所谓伊人
 rywy	掖
-rywy	掠食
-rywy	反腐倡廉
+rywy	抗住
 rywy	护食
 rywy	护住
+rywy	掠食
 rywy	邀集
-rywy	抗住
+rywy	反腐倡廉
 ryx	摔
 ryxf	摔
 ryxg	反应强烈
@@ -108886,13 +108903,13 @@ tfn	先进性
 tfna	选民
 tfna	先民
 tfnd	迁居
+tfnf	千层
+tfnf	逢考必过
+tfnf	愁云惨雾
 tfnf	先导
 tfnf	告慰
 tfnf	廷尉
-tfnf	千层
-tfnf	愁云惨雾
 tfnf	丢丑
-tfnf	逢考必过
 tfng	行情
 tfng	德怀
 tfng	行动迅速
@@ -110553,8 +110570,8 @@ thga	版型
 thgc	版
 thgc	算到
 thgd	牍
-thgf	处于
 thgf	牌
+thgf	处于
 thgf	长眠不起
 thgh	算下
 thgi	怎不
@@ -117739,8 +117756,8 @@ uddc	郑码
 uddd	养大
 uddd	头大
 uddd	头套
-uddf	减压
 uddf	羞辱
+uddf	减压
 uddf	差压
 uddf	站在原地
 uddg	善感
@@ -118481,6 +118498,7 @@ ueck	前台
 uecq	并且能够
 uecy	前叉
 uede	前有
+uedf	前压
 uedg	前三
 uedh	剪破
 uedj	前辈
@@ -118827,6 +118845,7 @@ uffy	冰封雪裹
 ufg	壮
 ufg	站起来
 ufga	半开
+ufga	闭开
 ufgb	站起来了
 ufgc	装到
 ufgd	半天
@@ -127289,8 +127308,8 @@ vtcb	娇柔
 vtck	九台
 vtcn	群马
 vtd	妖
-vtdc	群雄
 vtdc	群友
+vtdc	群雄
 vtdd	九大
 vtde	姓胡
 vtdg	君威
@@ -127850,6 +127869,7 @@ vvtt	好好管管
 vvtu	妇科
 vvty	婚姻自主
 vvu	娃娃亲
+vvud	女拳
 vvud	女眷
 vvuf	女装
 vvug	娓娓道来
@@ -133822,8 +133842,8 @@ wsfs	做梦都想
 wsft	何者
 wsfv	人杰地灵
 wsg	体
-wsga	体形
 wsga	体型
+wsga	体形
 wsga	价格不菲
 wsgc	何至
 wsge	体表
@@ -134886,6 +134906,7 @@ wuaf	公益劳动
 wuaf	创意工坊
 wuaf	人头落地
 wuaj	含羞草
+wuak	位或
 wuak	倦勤
 wuan	人间蒸发
 wuap	合瓣花冠
@@ -134946,8 +134967,9 @@ wugg	从头再来
 wugg	僧王
 wugi	人间天堂
 wugk	倍速
-wugn	从头至尾
+wugn	位与
 wugn	从头到尾
+wugn	从头至尾
 wugo	公益事业
 wugp	坐立不安
 wugq	位列
@@ -137884,6 +137906,7 @@ xaif	红尘
 xaif	红潮
 xaih	红波
 xaih	红泪
+xaij	红温
 xaim	红油
 xain	红泥
 xaip	红学
