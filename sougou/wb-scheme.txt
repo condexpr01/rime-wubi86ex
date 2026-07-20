@@ -94292,6 +94292,7 @@ rhyn	卸肩
 rhyo	扯谈
 rhyp	看这
 rhyq	年底
+rhys	牛魔
 rhys	披靡
 rhyt	拜占庭
 rhyu	年谱
@@ -119475,8 +119476,8 @@ ugrm	美制
 ugrn	美气
 ugrq	辣的
 ugrq	美的
-ugrr	病逝
 ugrr	美白
+ugrr	病逝
 ugrr	病毒扫描
 ugrt	辣手
 ugrt	并不看重
