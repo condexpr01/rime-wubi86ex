@@ -4,7 +4,7 @@
 schema:
   name: "帕瓦芙.powerful86wubi"
   schema_id: powerful86wubi
-  version: "2026.07.17"
+  version: "2026.07.30"
   authoer: "Vito <condexpr01@outlook.com>"
   description: "git@github.com:condexpr01/rime-wubi86ex"
   dependencies: ["powerful86pinyin"]

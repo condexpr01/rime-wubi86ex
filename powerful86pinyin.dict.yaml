@@ -1,6 +1,6 @@
 ---
 name: powerful86pinyin
-version: "2026.06.12"
+version: "2026.07.30"
 sort: by_weight
 columns: [code,text,weight]
 ...

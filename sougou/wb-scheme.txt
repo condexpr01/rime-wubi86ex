@@ -1,5 +1,8 @@
 a	工
 a	藏
+a	其他的
+a	基本上
+a	莫过于
 aa	式
 aa	区区
 aa	某某
@@ -5713,9 +5716,9 @@ awrl	共舞
 awrm	茶缸
 awrm	工作手册
 awrp	勤俭持家
+awrq	花魁
 awrq	其他的
 awrq	花的
-awrq	花魁
 awrq	苦命的
 awrr	苍白
 awrr	花白
@@ -6343,6 +6346,9 @@ ayyw	共享文件
 ayyy	匾文
 b	了
 b	子
+b	也可以
+b	也就是
+b	陌生人
 ba	陈
 ba	隐藏
 ba	阵营
@@ -8901,8 +8907,8 @@ btuw	隆准
 btuw	降准
 btvt	降妖
 btvw	联系群众
-btw	联系人
 btw	陌生人
+btw	联系人
 btwd	降伏
 btwf	陆委会
 btwf	取得贷款
@@ -9590,6 +9596,9 @@ byyw	随高就低
 byyy	阴谋诡计
 c	以
 c	又
+c	对不起
+c	对不对
+c	能不能
 ca	戏
 ca	预期
 ca	艰苦
@@ -12520,6 +12529,9 @@ cyyv	通话记录
 cyyw	骗谁
 d	在
 d	大
+d	有时候
+d	大部分
+d	大多数
 da	左
 da	成功
 da	尤其
@@ -20588,6 +20600,9 @@ dyyy	太广
 dyyy	百度文库
 e	有
 e	月
+e	服务器
+e	服务员
+e	受不了
 ea	肛
 ea	月薪
 ea	及其
@@ -23521,6 +23536,9 @@ eyyw	爱谁谁
 eyyy	用户词库
 f	都
 f	土
+f	越来越
+f	干什么
+f	无所谓
 fa	戴
 fa	规划
 fa	运营
@@ -32274,6 +32292,9 @@ fyyy	地方主义
 fyyy	才高识广
 g	一
 g	王
+g	不得不
+g	不知道
+g	不可能
 ga	开
 ga	一切
 ga	形式
@@ -42997,6 +43018,9 @@ gyyy	不应该
 gyyy	天方夜谭
 h	上
 h	目
+h	目的地
+h	上厕所
+h	瞧不起
 ha	虚
 ha	虚荣
 ha	皮革
@@ -45599,6 +45623,9 @@ hyyx	上座率
 hyyy	虚词诡说
 i	不
 i	水
+i	没关系
+i	没什么
+i	没意思
 ia	江
 ia	小区
 ia	学期
@@ -54480,6 +54507,9 @@ iyyy	深刻认识
 iyyy	游廊
 j	是
 j	日
+j	是不是
+j	时不时
+j	紧接着
 ja	虹
 ja	时期
 ja	日期
@@ -58850,6 +58880,9 @@ jyyx	电话计费
 jyyy	早就应该
 k	中
 k	口
+k	哪一个
+k	只不过
+k	听不见
 ka	呀
 ka	员工
 ka	中期
@@ -64150,6 +64183,9 @@ kyyp	听说读写
 kyyy	另谋高就
 l	国
 l	田
+l	男朋友
+l	转圈圈
+l	轻飘飘
 la	轼
 la	困惑
 la	加工
@@ -68542,6 +68578,9 @@ lyyq	加州旅馆
 lyyy	轻言放弃
 m	同
 m	山
+m	几个人
+m	见不得
+m	岂不是
 ma	曲
 ma	周期
 ma	同期
@@ -72041,6 +72080,9 @@ myyv	凡庸
 myyy	风度翩翩
 n	民
 n	已
+n	尽可能
+n	以至于
+n	怪不得
 na	懂
 na	收藏
 na	民
@@ -77164,6 +77206,9 @@ nyyy	以该
 nyyy	改良主义
 o	为
 o	火
+o	类似于
+o	烂摊子
+o	烦不烦
 oa	烧
 oa	迷茫
 oa	精英
@@ -79467,6 +79512,9 @@ oyyp	糖膏
 oyys	炕床
 p	这
 p	之
+p	之所以
+p	实在是
+p	实际上
 pa	宽
 pa	社区
 pa	定期
@@ -84565,6 +84613,9 @@ pyyy	实证主义
 pyyy	祷文
 q	我
 q	金
+q	多少个
+q	多少次
+q	留下来
 qa	氏
 qa	解散
 qa	角落
@@ -91004,6 +91055,9 @@ qyyx	错误率
 qyyy	留言
 r	的
 r	白
+r	找不到
+r	接下来
+r	看不见
 ra	找
 ra	推荐
 ra	技巧
@@ -101216,6 +101270,9 @@ ryyy	提高认识
 ryyy	白话文
 s	要
 s	木
+s	可能是
+s	要不然
+s	想一想
 sa	杠
 sa	格式
 sa	模式
@@ -106558,6 +106615,9 @@ syyw	西方文化
 syyy	柱廊
 t	和
 t	禾
+t	怎么办
+t	怎么样
+t	很可能
 ta	长
 ta	选项
 ta	长期
@@ -117139,6 +117199,9 @@ tyyy	造谣诽谤
 tyyy	重启试试
 u	产
 u	着
+u	意味着
+u	问题是
+u	差不多
 ua	并
 ua	痛苦
 ua	辛苦
@@ -124741,6 +124804,9 @@ uyyy	普遍认为
 uyyy	北方方言
 v	发
 v	女
+v	女朋友
+v	好意思
+v	如果说
 va	毁
 va	奶茶
 va	如期
@@ -128193,6 +128259,9 @@ vyyp	姑妄言之
 vyyx	婉言谢绝
 w	人
 w	您
+w	什么人
+w	舍不得
+w	倾向于
 wa	代
 wa	公式
 wa	公共
@@ -137812,6 +137881,9 @@ wyyy	人文主义
 wyyy	分离主义
 x	经
 x	幺
+x	经不起
+x	比如说
+x	缓一缓
 xa	红
 xa	细节
 xa	经营
@@ -141747,6 +141819,9 @@ xyyx	统率
 xyyy	毋庸讳言
 y	主
 y	言
+y	为什么
+y	离不开
+y	计算机
 ya	度
 ya	方式
 ya	计划

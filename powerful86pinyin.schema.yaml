@@ -8,7 +8,7 @@
 schema:
   name: "芙瓦帕.powerful86pinyin"
   schema_id: powerful86pinyin
-  version: "2026.06.12"
+  version: "2026.07.30"
   authoer: "Vito <condexpr01@outlook.com>"
   description: "仅为依赖, 编译反查表, Do not apply this!!!(僵尸，芙瓦帕)"
 
