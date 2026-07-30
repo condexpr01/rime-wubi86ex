@@ -38210,6 +38210,7 @@ glfq	天罡地煞
 glfu	画境
 glfy	天圆地方
 glg	致力于
+glg	五边形
 glga	五边形
 glgb	不回来了
 glgf	致力于
@@ -66657,6 +66658,8 @@ llfu	默默无闻
 llfy	默默无言
 llfy	默默无语
 llg	圜
+llg	四边形
+llga	四边形
 llge	圜
 llgg	囫囵吞枣
 llgg	轰轰烈烈
@@ -84318,8 +84321,8 @@ pyln	神思
 pyln	禤
 pylp	祁连
 pylq	神罗
-pylt	视力
 pylt	视图
+pylt	视力
 pylt	神力
 pylt	空话连篇
 pylw	视界
@@ -101270,7 +101273,7 @@ ryyy	提高认识
 ryyy	白话文
 s	要
 s	木
-s	可能是
+s	要不要
 s	要不然
 s	想一想
 sa	杠
@@ -117421,9 +117424,9 @@ uaw	瘩
 uaw	总工会
 uawb	辛苦你了
 uawd	并做
-uawf	总工会
 uawf	阈值
 uawf	并会
+uawf	总工会
 uawg	并使
 uawg	冻僵
 uawg	闹革命
@@ -120976,6 +120979,8 @@ ulfk	美国进口
 ulft	曾考
 ulfw	新加坡人
 ulg	兽
+ulg	六边形
+ulga	六边形
 ulgc	曾到
 ulgd	半边天
 ulgf	曾于
@@ -128258,7 +128263,7 @@ vyyo	嬗变
 vyyp	姑妄言之
 vyyx	婉言谢绝
 w	人
-w	您
+w	像
 w	什么人
 w	舍不得
 w	倾向于
