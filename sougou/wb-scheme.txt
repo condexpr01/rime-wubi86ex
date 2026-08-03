@@ -10791,8 +10791,8 @@ cfju	双喜临门
 cfjv	对照
 cfka	对呀
 cfkb	对啊
-cfkc	对吧
 cfkc	对吗
+cfkc	对吧
 cfkf	对味
 cfkg	对号
 cfkh	对路
@@ -17862,8 +17862,8 @@ doya	灰度
 doye	灰衣
 doyp	灰膏
 dp	达
+dp	确定
 dp	大家
-dp	研究
 dpad	达菲
 dpad	夯实基础
 dpat	春宵苦短
@@ -59513,8 +59513,8 @@ keye	忠肝义胆
 keyy	吸
 keyy	啄
 kf	叶
+kf	只需
 kf	听过
-kf	患者
 kfa	喷
 kfaa	跨越式
 kfaa	叶芽
@@ -91637,6 +91637,7 @@ rbsh	拙朴
 rbsp	摘取桂冠
 rbss	报禁
 rbsu	报栏
+rbsv	折耳根
 rbsy	岳阳楼记
 rbtd	拙舌
 rbte	报盘
@@ -102509,8 +102510,8 @@ sgad	本项
 sgad	丁基
 sgad	酸苦
 sgad	西葫
-sgae	配菜
 sgae	酸菜
+sgae	配菜
 sgae	西菜
 sgaf	酣
 sgaf	根正苗直
@@ -102747,6 +102748,7 @@ sgif	西洼
 sgii	西沙
 sgii	杯水
 sgim	酥油
+sgin	酸汤
 sgip	醒觉
 sgip	西沉
 sgip	配演
@@ -116622,6 +116624,7 @@ txlu	身强力壮
 txlw	系统软件
 txlw	每轮
 txmf	每周
+txmh	每帧
 txmh	每幅
 txmi	系统崩溃
 txmj	每则
@@ -133364,8 +133367,8 @@ wqj	像
 wqj	含金量
 wqjb	你最
 wqje	像
-wqjg	您是
 wqjg	你是
+wqjg	您是
 wqjg	像是
 wqjh	你早
 wqjh	您早
@@ -133676,8 +133679,8 @@ wqys	侈靡
 wqyt	像话
 wqyt	儋州
 wqyt	你放
-wqyu	你说
 wqyu	低廉
+wqyu	你说
 wqyu	您说
 wqyy	你方
 wqyy	你该
@@ -134884,9 +134887,9 @@ wtws	作何
 wtws	什么价格
 wtwt	傻傻
 wtwt	任凭
-wtwt	什么什么
 wtwt	斜斜
 wtwt	仵作
+wtwt	什么什么
 wtwu	八位
 wtwu	信息传递
 wtwu	作伴
@@ -137467,8 +137470,8 @@ wyqn	领馆
 wyqn	偏饭
 wyqn	贪馋
 wyqo	体育锻炼
-wyqq	保证金
 wyqq	偏多
+wyqq	保证金
 wyqq	储金
 wyqq	贪多
 wyqq	领钩
@@ -137482,8 +137485,8 @@ wyqt	令狐
 wyqt	贪狼
 wyqu	停匀
 wyqv	焦急
-wyqy	仪
 wyqy	停留
+wyqy	仪
 wyqy	集贸
 wyqy	禽鸟
 wyr	你说的
@@ -144153,9 +144156,9 @@ yijy	高光时刻
 yik	文学史
 yikf	京味
 yikf	放学别走
-yikh	就中
 yikh	就跟
 yikh	就跑
+yikh	就中
 yiki	麻雀虽小
 yikl	就别
 yikn	就叫
