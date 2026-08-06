@@ -26596,6 +26596,7 @@ fhll	盐田
 fhll	直男
 fhll	真田
 fhll	坡田
+fhlp	直连
 fhlp	直辖
 fhlp	走边
 fhlq	走软
@@ -33694,8 +33695,8 @@ gdt	不在乎
 gdt	一大片
 gdta	天长
 gdtd	天敌
-gdtf	天竺
 gdtf	天选
+gdtf	天竺
 gdtf	不太行
 gdtg	天生
 gdtg	天籁
@@ -45033,6 +45034,7 @@ htgf	虎躯一震
 htgh	睡下
 htgj	上智下愚
 htgl	步入正轨
+htgq	睡死
 htgt	睡得正香
 htgu	上行下效
 htgy	上知天文
@@ -113445,8 +113447,8 @@ tpxj	签字费
 tpxt	航空母舰
 tpxx	秘密组织
 tpxy	管弦
-tpy	称之为
 tpy	自定义
+tpy	称之为
 tpyg	徙宅忘妻
 tpyj	答案就是
 tpyk	管训
@@ -115451,8 +115453,8 @@ tuff	税款
 tufg	街头霸王
 tufg	冬雨
 tufg	科干
-tufh	科
 tufh	简直
+tufh	科
 tufh	重新考虑
 tufi	利益均沾
 tufj	每次都是
@@ -118692,6 +118694,7 @@ uenf	前导
 uenf	六月飞霜
 ueng	前情
 uenh	煎蛋
+uenk	前壁
 uenk	前臂
 uenl	前翼
 uenr	头脑发热
@@ -142033,8 +142036,8 @@ yart	试播
 yart	计其所短
 yaru	遮拦
 yarv	评功摆好
-yary	文艺批评
 yary	遮护
+yary	文艺批评
 yase	席棚
 yasg	诬枉
 yash	试想
