@@ -2532,12 +2532,12 @@ ajai	蓝藻
 ajai	菖蒲
 ajai	划落
 ajai	幕落
-ajaj	若明若暗
 ajaj	草草
-ajaj	蓝蓝
-ajaj	或明或暗
 ajaj	萌萌
 ajaj	蔓草
+ajaj	蓝蓝
+ajaj	若明若暗
+ajaj	或明或暗
 ajam	草黄
 ajap	墓茔
 ajat	草莓
@@ -43047,6 +43047,7 @@ ha	皮革
 haa	虐
 haa	紫荆花
 haaa	紫花苜蓿
+haad	虚基
 haad	卢甘斯克
 haae	虐菜
 haag	虐
@@ -54528,9 +54529,9 @@ iyyy	深刻认识
 iyyy	游廊
 j	是
 j	日
+j	是什么
 j	是不是
 j	时不时
-j	紧接着
 ja	虹
 ja	时期
 ja	日期
@@ -59306,6 +59307,7 @@ kdjh	顺畅
 kdjj	顺昌
 kdjn	唵
 kdjq	别太晚
+kdkb	呃啊
 kdkd	呃呃
 kdkd	咕咕
 kdkd	嘎嘎
@@ -63255,8 +63257,8 @@ ktkc	吃吧
 ktkc	嘚吧
 ktkd	呼喊
 ktke	呼吸
-ktkf	咯吱
 ktkf	哦嚯
+ktkf	咯吱
 ktkf	吃味
 ktkg	咯
 ktkg	呼吁
@@ -72104,8 +72106,8 @@ myyv	凡庸
 myyy	风度翩翩
 n	民
 n	已
+n	懂不懂
 n	尽可能
-n	以至于
 n	怪不得
 na	懂
 na	收藏
@@ -73382,8 +73384,10 @@ ngmq	情网
 ngmw	屋内
 ngmw	民事赔偿
 ngmw	以下几个
+ngn	懂不懂
 ngn	民政局
 ngna	刁民
+ngna	懂不懂
 ngnb	敢不敢
 ngnc	怪不怪
 ngnd	懒惰
@@ -84322,8 +84326,8 @@ pykj	视唱
 pykk	礼品
 pykk	神器
 pykk	祸患
-pykk	神品
 pykk	视口
+pykk	神品
 pykm	社员
 pykm	神呐
 pykq	祝
@@ -87785,6 +87789,7 @@ qnjt	饱览
 qnjx	馄
 qnjy	蚀
 qnk	馈
+qnkb	饿啊
 qnke	饱吸
 qnkf	馊味
 qnkg	饱嗝
@@ -127618,9 +127623,11 @@ vtsn	姓杨
 vtsn	那我可以
 vtso	建筑材料
 vtsy	妖术
+vtt	那怎么
 vtt	建筑物
 vtta	妙笔生花
 vttb	那怎么了
+vttc	那怎么
 vtte	女生自用
 vttf	九千
 vttf	九行
@@ -138856,6 +138863,7 @@ xggk	母带
 xggq	线列
 xggu	纯平
 xgh	比不上
+xgha	纯虚
 xghh	比不上
 xghh	线上
 xghm	纯贞
@@ -141860,8 +141868,8 @@ xyyy	毋庸讳言
 y	主
 y	言
 y	为什么
+y	就可以
 y	离不开
-y	计算机
 ya	度
 ya	方式
 ya	计划
@@ -144427,10 +144435,10 @@ yiyq	就义
 yiyr	应诉
 yiyt	应许
 yiyt	京族
-yiyu	诲淫诲盗
 yiyu	就说
 yiyu	应当说
 yiyu	说没说
+yiyu	诲淫诲盗
 yiyw	就诊
 yiyw	方法论
 yiyw	就座
