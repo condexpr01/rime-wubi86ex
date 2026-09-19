@@ -1,14 +1,18 @@
 ---@diagnostic disable: undefined-global, lowercase-global, unused-local
 
--- 时间
+-- 时间(ISO-8601)
 time = function (input, seg)
 	if (input == "time") then
-		-- 世界范围内能懂的utc时间
-		offset = tostring(os.date("%z"))
-		utc = offset:sub(1,1)
-		utc = utc == '+' and 'P' or utc == '-' and 'N' or ''
-		utc = "UTC" .. utc .. offset:sub(2,5)
-		yield(Candidate("time", seg.start, seg._end ,utc .. os.date(".%Y-%m-%dT%H:%M:%S"), "time"))
+		local z= os.date("%z") .. ""
+
+		-- 本地时间, 符合ISO-8601规范
+		yield(Candidate("time", seg.start, seg._end ,
+			string.format("%s%s:%s",os.date("%Y-%m-%dT%H:%M:%S"),z:sub(1,3),z:sub(4,5)),
+			"Local(ISO8601)"))
+
+		-- 协调世界时UTC, 符合ISO-8601规范
+		yield(Candidate("time", seg.start, seg._end ,os.date("!%Y-%m-%dT%H:%M:%SZ"), "UTC(ISO8601)"))
+
 	end
 end
 
