@@ -10475,9 +10475,9 @@ cefn	能卖
 cefo	柔肠寸断
 cefp	通过
 cefp	能过
-ceft	通才
 ceft	勇者
 ceft	能者
+ceft	通才
 cefw	勇夫
 ceg	驵
 cega	勇武
@@ -22030,8 +22030,8 @@ epaw	爱茶
 epbb	爱子
 epbb	腔子
 epbe	受阻
-epbm	受聘
 epbm	逐出
+epbm	受聘
 epbn	受了
 epbn	爱了
 epbt	受降
@@ -26134,7 +26134,8 @@ fgvv	二女
 fgvv	二嫂
 fgvy	干娘
 fgvy	二娘
-fgw	老天爷
+fgw	都不会
+fgw	才不会
 fgwa	二代
 fgwa	老一代
 fgwb	干他
@@ -26146,10 +26147,10 @@ fgwd	过一段
 fgwd	二五八万
 fgwe	无副作用
 fgwe	十一个月
-fgwf	十佳
 fgwf	都不会
 fgwf	才不会
 fgwf	颠来倒去
+fgwf	十佳
 fgwf	二传
 fgwg	十全
 fgwg	直到今天
@@ -31576,8 +31577,8 @@ fvyt	喜怒哀愁
 fvyw	雪夜
 fvyy	封建主义
 fw	夫
-fw	动作
 fw	都会
+fw	动作
 fwa	无人区
 fwaa	零工
 fwaa	二段式
@@ -69707,7 +69708,7 @@ mhgm	帻
 mhgn	帕瓦
 mhgo	由来
 mhgu	同步更新
-mhh	帖
+mhh	帧
 mhhc	帔
 mhhh	贴上
 mhhh	由上
@@ -93454,7 +93455,7 @@ rghv	扫一眼
 rghx	后此
 rghy	插不上话
 rgi	抔
-rgi	执政党
+rgi	看不清
 rgib	岳池
 rgic	皇汉
 rgic	后汉
@@ -93543,12 +93544,13 @@ rgmr	看不见的
 rgmt	兵败
 rgmt	后账
 rgmu	手下败将
-rgn	搞不懂
+rgn	看不懂
 rgn	看不惯
 rgna	后羿
-rgna	看不懂
-rgna	皇民
 rgna	后臀
+rgna	看不懂
+rgna	搞不懂
+rgna	皇民
 rgnh	后来居上
 rgni	白带异常
 rgnk	后壁
@@ -93564,8 +93566,6 @@ rgnx	看不惯
 rgny	后心
 rgny	年事已高
 rgny	后以
-rgo	鬼画糊
-rgod	鬼画糊
 rgoo	兵火
 rgos	后灯
 rgow	抹粉
@@ -93579,6 +93579,7 @@ rgpe	兵家
 rgpe	岳家
 rgpf	皇冠
 rgpf	抹完
+rgpg	后室
 rgpg	皇室
 rgpg	搞不定
 rgpj	后事之师
@@ -95184,7 +95185,7 @@ rkyo	的足迹
 rkys	接口文档
 rkyy	折中主义
 rl	舞
-rl	氛围
+rl	返回
 rl	押
 rla	热加工
 rlaa	热加工
@@ -134250,9 +134251,9 @@ wtbj	人造卫星
 wtbk	任职
 wtbm	作祟
 wtbm	作出
+wtbn	傻了
 wtbn	伤了
 wtbn	伤透了
-wtbn	傻了
 wtbn	伤透了心
 wtbr	拿得出手
 wtbt	舍短取长
