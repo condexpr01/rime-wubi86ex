@@ -13701,9 +13701,9 @@ ddwn	大假
 ddwo	大伙
 ddwp	大而化之
 ddwq	大爷
-ddwr	大伯
 ddwr	套件
 ddwr	大件
+ddwr	大伯
 ddws	大体
 ddwt	大作
 ddwt	套作
@@ -29454,8 +29454,8 @@ fqfw	无怨无仇
 fqga	无形
 fqga	朝夕与共
 fqgc	幸免于难
-fqge	过犹不及
 fqge	元表
+fqge	过犹不及
 fqgg	无一
 fqgg	均一
 fqgh	走错一步
@@ -61680,10 +61680,12 @@ kkki	口哨
 kkki	口嗨
 kkkk	咒骂
 kkkk	口
-kkkk	咕咕嘎嘎
+kkkk	骂哭
 kkkk	串口
-kkkk	嘻嘻哈哈
 kkkk	串串
+kkkk	口口
+kkkk	咕咕嘎嘎
+kkkk	嘻嘻哈哈
 kkkk	哈哈哈哈
 kkkk	叽叽喳喳
 kkkk	吃吃喝喝
@@ -61693,7 +61695,6 @@ kkkk	哭哭啼啼
 kkkk	咕噜咕噜
 kkkk	踉踉跄跄
 kkkk	唠唠叨叨
-kkkk	口口
 kkkk	哆哆嗦嗦
 kkkk	吵吵嚷嚷
 kkkk	噼噼啪啪
@@ -61711,7 +61712,6 @@ kkkk	咿咿呀呀
 kkkk	嘀嘀咕咕
 kkkk	嘟嘟囔囔
 kkkk	啰啰嗦嗦
-kkkk	骂哭
 kkkk	咋咋呼呼
 kkkk	哔哩哔哩
 kkkk	蹭吃蹭喝
@@ -103038,9 +103038,9 @@ sgsf	西村
 sgsf	想来想去
 sgsf	飘来飘去
 sgsg	酝酿
-sgsg	丁丁
 sgsg	醒醒
 sgsg	本本
+sgsg	丁丁
 sgsg	醋酸
 sgsg	酸酸
 sgsg	酷酷
@@ -120909,8 +120909,8 @@ ukvu	总嫌
 ukw	商品化
 ukw	意中人
 ukwa	问供
-ukwb	冲他
 ukwb	问他
+ukwb	冲他
 ukwd	部优
 ukwe	卷吸作用
 ukwf	总会
@@ -126336,8 +126336,8 @@ viig	肃清
 viiq	剥光
 viit	奶油小生
 viiu	娇滴滴
-vij	肃
 vij	剥
+vij	肃
 vije	姚明
 vijg	鹔
 vijh	剥
