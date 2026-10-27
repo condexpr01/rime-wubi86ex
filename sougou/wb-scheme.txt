@@ -61838,6 +61838,7 @@ kksq	呱嗒板儿
 kkss	呋喃西林
 kkst	品格
 kksw	口口相传
+kksy	咒术
 kksy	口述
 kkta	口吻生花
 kktc	口径
@@ -72261,8 +72262,8 @@ nann	改革发展
 nant	异性
 nant	发散性
 nanv	屉
-nany	民心
 nany	慌忙
+nany	民心
 naod	异类
 naog	展业
 naov	异数
@@ -84380,8 +84381,8 @@ pyng	社情
 pyng	祖屋
 pynk	祠
 pynk	牢记心中
-pynn	礼
 pynn	祀
+pynn	礼
 pynn	审计局
 pynt	神性
 pynt	祕
