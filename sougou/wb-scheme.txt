@@ -37663,8 +37663,8 @@ gkbw	整队
 gkbw	带队
 gkc	不听劝
 gkca	带劲
-gkce	融通
 gkce	速通
+gkce	融通
 gkck	整台
 gkcl	开足马力
 gkcl	吞吐能力
@@ -86392,8 +86392,8 @@ qhfj	钻井
 qhfj	外刊
 qhfk	外露
 qhfl	外协
-qhfn	外场
 qhfn	外卖
+qhfn	外场
 qhfp	外壳
 qhfp	钻过
 qhft	外教
