@@ -12336,8 +12336,8 @@ cwxy	难缠
 cwy	难
 cwy	双人床
 cwya	难度
-cwyg	难
 cwyg	验证
+cwyg	难
 cwyg	骓
 cwyg	难分高下
 cwyl	难为
@@ -51082,8 +51082,8 @@ ipva	溶媒
 ipva	党媒
 ipvb	学好
 ipvb	演好
-ipve	堂姐
 ipve	学姐
+ipve	堂姐
 ipvf	学妹
 ipvf	堂妹
 ipvf	党建
@@ -110611,10 +110611,10 @@ thde	自有
 thdf	自夸
 thdf	篡夺
 thdf	怎奈
-thdg	自感
-thdg	自古
-thdg	自上而下
 thdg	自研
+thdg	自古
+thdg	自感
+thdg	自上而下
 thdh	自在
 thdh	处在
 thdh	算在
@@ -120564,7 +120564,7 @@ ujyw	竟夜
 ujyy	韵文
 ujyy	单方
 uk	问
-uk	产品
+uk	意味
 uk	道路
 ukaa	总工
 ukad	问其
@@ -124406,8 +124406,8 @@ uxyo	递变
 uxyt	冀州
 uxyy	北方
 uy	六
+uy	意义
 uy	阅读
-uy	单词
 uya	半衰期
 uya	闹市区
 uyad	辛苦
