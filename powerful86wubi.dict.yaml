@@ -1,6 +1,6 @@
 ---
 name: powerful86wubi
-version: "2026.07.30"
+version: "2026.11.01"
 sort: original
 
 # 默认开启8105个规范字之外字的超集
@@ -10436,6 +10436,7 @@ cecf	能对
 cecl	又脏又累
 cecm	通观
 cecn	又爱又恨
+cect	又脏又臭
 cede	能有
 cedf	勇夺
 cedf	能夺
@@ -22200,8 +22201,8 @@ epqd	豕突狼奔
 epqg	爱钱
 epqh	舜
 epqi	爱乐
-epqk	逐句
 epqk	受够
+epqk	逐句
 epqn	脓包
 epqt	腕儿
 epqt	爱狗
@@ -25329,8 +25330,8 @@ ffso	土楼
 ffso	运动模糊
 ffsr	墙板
 ffsr	志趣相投
-ffss	土木
 ffss	封禁
+ffss	土木
 ffss	土林
 ffst	动真格
 ffst	栽培植物
@@ -28551,8 +28552,8 @@ fngg	专一
 fngh	专政
 fngk	韧带
 fngk	声带
-fngk	亏心事
 fngk	声速
+fngk	亏心事
 fngm	专责
 fngn	震惊不已
 fngn	无愧于心
@@ -28741,6 +28742,7 @@ fnrs	无心插柳
 fnrt	场
 fnrv	声势
 fnrx	专指
+fnrx	卖批
 fnrx	违拗
 fnry	违抗
 fnry	专擅
@@ -40341,6 +40343,7 @@ gqv	兀
 gqv	琤
 gqv	一刹那
 gqvb	熬好
+gqvc	死妈
 gqvf	一刹那
 gqvf	熬那
 gqvh	琤
@@ -40392,6 +40395,7 @@ gqxg	死线
 gqxk	列强
 gqxo	一锅粥
 gqxo	熬粥
+gqxq	死绝
 gqxt	裂缝
 gqxt	现金结算
 gqxu	残弱
@@ -45805,10 +45809,10 @@ iaif	江潮
 iaig	满清
 iaig	湛清
 iaih	洪波
-iaii	洪水
-iaii	灌水
 iaii	浇水
+iaii	洪水
 iaii	泔水
+iaii	灌水
 iaii	泄水
 iail	潆洄
 iaim	江油
@@ -79114,6 +79118,7 @@ ougc	料到
 ougd	粉妆玉砌
 ougg	粉妆玉琢
 ougj	料理
+ougk	烂逼
 ougo	糕
 ougt	爔
 ouh	火头上
@@ -79155,6 +79160,7 @@ ouqq	火前留名
 ourh	烂掉
 ourm	焙制
 ourq	烂的
+ourx	烂批
 ousg	烂醉
 oush	料想
 outc	粒径
@@ -83561,10 +83567,10 @@ pwgh	容下
 pwgi	害人不浅
 pwgj	完全不是
 pwgj	穷理
+pwgk	窝囊
 pwgk	安全带
 pwgk	穷途末路
 pwgk	窄带
-pwgk	窝囊
 pwgm	穿刺
 pwgm	突现
 pwgm	完全不同
@@ -105457,8 +105463,8 @@ ssyt	郴州
 ssyt	林州
 ssyw	根本变化
 ssyx	麓
-ssyy	梵文
 ssyy	禁言
+ssyy	梵文
 ssyy	酥酥麻麻
 ssyy	极权主义
 ssyy	本本主义
@@ -107897,11 +107903,11 @@ tdtr	各有各的
 tdtt	各有千秋
 tdtt	舔笔
 tdtt	利在千秋
-tdtu	各有利弊
 tdtu	知乎
 tdtu	乱箭
 tdtu	乱乎
 tdtu	短简
+tdtu	各有利弊
 tdtv	矮
 tdtv	各有各好
 tdtw	生存条件
@@ -120004,6 +120010,7 @@ uihk	冰点
 uihk	交汇点
 uihu	六小龄童
 uii	痧
+uii	美滋滋
 uii	冰淇淋
 uiid	冰湖
 uiif	交流活动
@@ -125242,9 +125249,9 @@ vbwe	她仍
 vbwf	她会
 vbwf	好会
 vbwg	好使
+vbwg	妈了个逼
 vbwg	她便
 vbwg	她俩
-vbwg	妈了个逼
 vbwg	好全
 vbwh	好个
 vbwn	好似
@@ -133643,9 +133650,9 @@ wqv	㑇
 wqvb	你好
 wqvb	您好
 wqvb	像她
+wqvc	你妈
 wqvc	爹妈
 wqvc	爸妈
-wqvc	你妈
 wqvc	你既
 wqvd	依然如故
 wqvf	你妹
@@ -135439,6 +135446,7 @@ wvft	余怒未息
 wvfw	分规
 wvga	分开
 wvga	岔开
+wvgb	你妈死了
 wvgc	分到
 wvgd	侵吞
 wvge	分表
@@ -137713,8 +137721,8 @@ wyud	令状
 wyue	售前
 wyuf	伪装
 wyuf	停闭
-wyug	健忘症
 wyug	集美
+wyug	健忘症
 wyui	体育疗法
 wyuj	含意
 wyuj	做文章
@@ -138956,8 +138964,8 @@ xgqm	纯铜
 xgqm	纯钢
 xgqq	纯金
 xgqr	纯铁
-xgqt	母猪
 xgqt	母狗
+xgqt	母猪
 xgqt	母狼
 xgqu	红斑狼疮
 xgqu	绚丽多姿
