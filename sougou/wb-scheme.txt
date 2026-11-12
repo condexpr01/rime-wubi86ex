@@ -2197,11 +2197,11 @@ aifb	薄地
 aifc	东去
 aifd	东城
 aifd	蒲城
-aiff	鸦雀无声
 aiff	落款
+aiff	鸦雀无声
+aiff	东墙
 aiff	东土
 aiff	医学博士
-aiff	东墙
 aifg	落雨
 aifh	荡起
 aifh	东坡
@@ -74871,8 +74871,8 @@ nnwf	已付
 nnwh	快修
 nnwj	心情舒畅
 nnwk	局促
-nnwn	收买人心
 nnwn	快追
+nnwn	收买人心
 nnwn	以心传心
 nnwq	快像
 nnwr	快件
@@ -108539,8 +108539,8 @@ teyq	船底
 teyt	盘旋
 teyu	笈
 teyv	盘庚
-teyx	利用率
 teyx	舷
+teyx	利用率
 tf	行
 tf	行动
 tf	第二
@@ -122575,10 +122575,10 @@ usk	疴
 uskc	亲吧
 uskd	疴
 uskg	尊号
-uskh	新贵
 uskh	尊贵
-uskh	新路
 uskh	亲嘴
+uskh	新路
+uskh	新贵
 uskh	亲贵
 uskk	新品
 uskk	亲口
@@ -149713,8 +149713,8 @@ yyic	广汉
 yyid	广源
 yyif	方法
 yyif	文法
-yyif	诉讼法
 yyif	该法
+yyif	诉讼法
 yyig	廓清
 yyig	认识水平
 yyih	言谈举止
