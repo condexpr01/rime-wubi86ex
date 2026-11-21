@@ -10613,10 +10613,10 @@ cet	驱逐舰
 ceta	通彻
 cetd	通知
 cetd	通敌
-cete	通航
-cete	驱逐舰
 cete	通透
+cete	通航
 cete	通盘
+cete	驱逐舰
 cetf	通行
 cetf	通告
 cetf	能行
@@ -26988,8 +26988,8 @@ fhxk	越强
 fhxk	真强
 fhxl	超细
 fhxm	超纲
-fhxq	超绝
 fhxq	赴约
+fhxq	超绝
 fhxt	起疑
 fhxu	走弱
 fhxx	真丝
@@ -45821,13 +45821,13 @@ iait	港澳
 iait	少劳少得
 iaiv	灌溉
 iaiw	江淮
+iaiy	洪流
+iaiy	江流
 iaiy	灌注
 iaiy	港湾
-iaiy	洪流
-iaiy	满洲
-iaiy	汇流
 iaiy	江湾
-iaiy	江流
+iaiy	汇流
+iaiy	满洲
 iaiy	波斯湾
 iaj	漠
 iajd	漠
@@ -66840,8 +66840,8 @@ lmlf	四周围
 lmny	轴心
 lmny	男同性恋
 lmpr	国内空白
-lmpw	图财害命
 lmpw	轴突
+lmpw	图财害命
 lmq	国内外
 lmqh	国内外
 lmqj	国内贸易
@@ -73391,7 +73391,7 @@ ngmq	情网
 ngmw	屋内
 ngmw	民事赔偿
 ngmw	以下几个
-ngn	民政局
+ngn	戳一戳
 ngna	刁民
 ngnb	敢不敢
 ngnc	怪不怪
@@ -73424,6 +73424,7 @@ ngnt	惜玉怜香
 ngnu	买不买
 ngnu	发现情况
 ngnv	怀恨
+ngnw	戳一戳
 ngny	恒心
 ngny	忙不忙
 ngop	情迷
@@ -101759,6 +101760,7 @@ scpe	权宜
 scpe	橘农
 scpf	树冠
 scpu	可能被
+scpw	树突
 scpw	相对定位
 scpw	相对安全
 scqc	橘色
@@ -107580,8 +107582,8 @@ tdiw	乱砍滥伐
 tdiw	乱涂
 tdiw	千古流传
 tdiy	乱流
-tdj	乔
 tdj	刮
+tdj	乔
 tdja	知晓
 tdja	敏感时期
 tdjd	徘
@@ -110159,10 +110161,10 @@ tgqr	生铁
 tgqr	很不错的
 tgqs	生杀
 tgqt	生锈
+tgqt	重锤
 tgqt	重犯
 tgqt	生猛
 tgqt	生猪
-tgqt	重锤
 tgqt	秤锤
 tgqu	得到解决
 tgqu	和平解决
