@@ -29766,8 +29766,8 @@ fquj	顽童
 fquj	元音
 fquj	无间
 fquj	场外交易
-fqum	远端
 fqum	无端
+fqum	远端
 fquq	无效
 fquq	鋆
 fquq	远郊
@@ -57016,8 +57016,8 @@ jnqh	电钻
 jnqi	电销
 jnqk	电钟
 jnqm	电负
-jnqn	电钮
 jnqn	电锯
+jnqn	电钮
 jnqt	电锤
 jnqu	电铲
 jnqv	电键
