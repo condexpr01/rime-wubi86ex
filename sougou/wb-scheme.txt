@@ -4844,8 +4844,8 @@ atlg	共和国
 atlg	工程车
 atli	功德圆满
 atli	工程力学
-atlt	甘特图
 atlt	攻略
+atlt	甘特图
 atlw	医界
 atlx	蓖
 atm	薇
@@ -24931,12 +24931,13 @@ ff	远远
 ff	土
 ffa	运动鞋
 ffaa	款式
-ffaa	朝朝暮暮
-ffaa	土工
+ffaa	零零散散
 ffaa	坦坦荡荡
+ffaa	朝朝暮暮
 ffaa	真真切切
 ffaa	起起落落
 ffaa	零零落落
+ffaa	土工
 ffad	款项
 ffad	土匪
 ffad	封藏
@@ -134627,9 +134628,9 @@ wtpe	作家
 wtpe	伤农
 wtpf	伤寒
 wtpf	倭寇
-wtpg	偷香窃玉
-wtpg	八宝
 wtpg	叙写
+wtpg	八宝
+wtpg	偷香窃玉
 wtpi	途
 wtpl	俄军
 wtpl	八军
@@ -135338,8 +135339,8 @@ wuym	位高
 wuyn	凭着良心
 wuyt	公益广告
 wuyv	伴郎
-wuyx	分辨率
 wuyx	倍率
+wuyx	分辨率
 wuyy	人道主义
 wuyy	创意设计
 wv	分
@@ -139666,8 +139667,8 @@ xlk	编辑器
 xlke	细嚼
 xlkf	细叶
 xlkh	细跟
-xlkk	编辑器
 xlkk	细品
+xlkk	编辑器
 xlkr	细听
 xlkt	比较顺利
 xlkt	细嗅
